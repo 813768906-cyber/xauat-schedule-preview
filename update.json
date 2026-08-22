@@ -1,10 +1,10 @@
 {
-  "versionCode": 9,
-  "versionName": "1.7.0",
-  "apkUrl": "https://github.com/813768906-cyber/xauat-schedule-preview/releases/download/v1.7.0/jianxu-1.7.0.apk",
-  "sha256": "f05840b2f2c6afcbe030a2c12b43f6d0d49e980ded81c147d5aaf656b02c53d9",
-  "size": 1091225,
-  "notes": "首次启用应用内版本更新；增加 GitHub API 备用更新源，改善部分校园和国内网络的检查更新能力。",
-  "publishedAt": "2026-08-22T05:20:56Z",
+  "versionCode": 10,
+  "versionName": "1.7.1",
+  "apkUrl": "https://github.com/813768906-cyber/xauat-schedule-preview/releases/download/v1.7.1/jianxu-1.7.1.apk",
+  "sha256": "84479c967dc1b6420346dd91a50706e83f265f640428446c9d71b5dd3c8dfa87",
+  "size": 1092541,
+  "notes": "优化首次进入页面的居中排版与视觉层级。\r\n新增暂不导入先看看，未导入时显示清晰空状态，不再展示示例课程。\r\n清晨、上午、中午、下午和晚上使用不同问候语。",
+  "publishedAt": "2026-08-22T05:55:16Z",
   "required": false
 }
