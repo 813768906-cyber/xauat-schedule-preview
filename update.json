@@ -1,0 +1,10 @@
+{
+  "versionCode": 9,
+  "versionName": "1.7.0",
+  "apkUrl": "https://github.com/813768906-cyber/xauat-schedule-preview/releases/download/v1.7.0/jianxu-1.7.0.apk",
+  "sha256": "44cc5f7f62d1e0cb8b566cde89579ad3e9f1ee2e0bceb062404b68199a3302e9",
+  "size": 1091053,
+  "notes": "首次启用应用内版本更新；后续可在建序内直接检查、下载并安装新版本。",
+  "publishedAt": "2026-08-22T05:20:56Z",
+  "required": false
+}
