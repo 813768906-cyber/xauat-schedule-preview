@@ -1,10 +1,10 @@
 {
-  "versionCode": 11,
-  "versionName": "1.8.0",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/813768906-cyber/xauat-schedule-preview@main/downloads/jianxu-1.8.0.apk",
-  "sha256": "76da6e5b88cf26aa459cfd2c5215ef41d3c2e133286e77dd429e4390b0e7def7",
-  "size": 1098493,
-  "notes": "新增学校官方三条校车线路实时查询，每10分钟自动刷新；校车与校园直通车分区显示，并标明校车站台和图书馆西侧直通车乘车点；新增今日课程桌面组件。",
-  "publishedAt": "2026-08-22T06:24:26Z",
+  "versionCode": 14,
+  "versionName": "1.9.2",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/813768906-cyber/xauat-schedule-preview@main/downloads/jianxu-1.9.2.apk",
+  "sha256": "f8630a8b339fa033cc315e37bbee180ebb3502766f2416737e7a4012a78ae498",
+  "size": 1109921,
+  "notes": "新增应用内桌面组件添加入口，首次升级主动请求添加今日课表组件；重新设计彩色方块今日课表组件和深色班车组件；班车桌面及锁屏倒计时改为分钟级显示；优化桌面与锁屏入口和趣味提示。",
+  "publishedAt": "2026-09-01T16:07:36Z",
   "required": false
 }
