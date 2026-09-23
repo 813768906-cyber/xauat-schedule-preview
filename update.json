@@ -1,10 +1,10 @@
 {
-  "versionCode": 24,
-  "versionName": "1.10.2-test",
-  "apkUrl": "https://github.com/813768906-cyber/xauat-schedule-preview/releases/download/v1.10.2-test/jianxu-1.10.2-test.apk",
-  "sha256": "8d62269a6304ca1e873310ba2215d70a2605ff5222915a12518162e1de6e9302",
-  "size": 1116241,
-  "notes": "建序 1.10.2-test 热修复\n\n1. 修复左右滑动或点击箭头时，周课表无法切换的问题。\n2. 修复换周保护逻辑调用不存在函数而导致的运行错误。\n3. 保留平滑横向过渡动画，并在动画结束后及时清理上一周课表，避免内容残留。",
-  "publishedAt": "2026-09-23T11:23:22Z",
+  "versionCode": 25,
+  "versionName": "1.10.3-test",
+  "apkUrl": "https://github.com/813768906-cyber/xauat-schedule-preview/releases/download/v1.10.3-test/jianxu-1.10.3-test.apk",
+  "sha256": "a20db2cebca76e598ce15cb5556c06c55829ccde9135a7bee2d0acf7ea2b83d5",
+  "size": 1117085,
+  "notes": "建序 1.10.3-test 更新检测加速\n\n1. 更新信息改为 GitHub API 与备用地址并发检测，使用最先成功的结果。\n2. 自动检查最长等待时间缩短为3秒，避免网络异常时长时间延迟。\n3. 缓存上一次成功获取的更新信息，再次启动时可立即判断并弹出提示。\n4. APK 下载继续使用原有长超时与多地址校验，不影响更新包下载稳定性。",
+  "publishedAt": "2026-09-23T11:42:40Z",
   "required": false
 }
