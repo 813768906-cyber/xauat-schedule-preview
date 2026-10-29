@@ -1,10 +1,10 @@
 {
-  "versionCode": 28,
-  "versionName": "1.10.6-test",
-  "apkUrl": "https://github.com/813768906-cyber/xauat-schedule-preview/releases/download/v1.10.6-test/jianxu-1.10.6-test.apk",
-  "sha256": "881f5725f021ddd6570cc6b709e7f05d6b7eef8559b55fb44a929402854c53d6",
-  "size": 1117377,
-  "notes": "修复部分手机更新包下载校验失败：补齐 GitHub 备用安装包；在设置中新增建序网页版入口。",
-  "publishedAt": "2026-10-29T04:39:00Z",
+  "versionCode": 29,
+  "versionName": "1.10.7-test",
+  "apkUrl": "https://generous-cardinal-d7dmbg7f51271f-1519747891.tcloudbaseapp.com/downloads/jianxu-1.10.7-test.apk",
+  "sha256": "ef67aa46f3545de0ba2e08014fc53ccf44074f20c636b61092063a05118e0a0c",
+  "size": 1117521,
+  "notes": "新增腾讯 CloudBase 国内镜像：软件内网页版入口、更新检查与 APK 下载优先使用国内地址；保留 GitHub 与建序官网备用通道。",
+  "publishedAt": "2026-10-29T05:09:00Z",
   "required": false
 }
