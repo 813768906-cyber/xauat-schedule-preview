@@ -1,7 +1,7 @@
 {
   "versionCode": 28,
   "versionName": "1.10.6-test",
-  "apkUrl": "https://raw.githubusercontent.com/813768906-cyber/xauat-schedule-preview/main/downloads/jianxu-1.10.6-test.apk",
+  "apkUrl": "https://github.com/813768906-cyber/xauat-schedule-preview/releases/download/v1.10.6-test/jianxu-1.10.6-test.apk",
   "sha256": "881f5725f021ddd6570cc6b709e7f05d6b7eef8559b55fb44a929402854c53d6",
   "size": 1117377,
   "notes": "修复部分手机更新包下载校验失败：补齐 GitHub 备用安装包；在设置中新增建序网页版入口。",
