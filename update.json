@@ -1,10 +1,10 @@
 {
-  "versionCode": 25,
-  "versionName": "1.10.3-test",
-  "apkUrl": "https://github.com/813768906-cyber/xauat-schedule-preview/releases/download/v1.10.3-test/jianxu-1.10.3-test.apk",
-  "sha256": "a20db2cebca76e598ce15cb5556c06c55829ccde9135a7bee2d0acf7ea2b83d5",
-  "size": 1117085,
-  "notes": "建序 1.10.3-test 更新检测加速\n\n1. 更新信息改为 GitHub API 与备用地址并发检测，使用最先成功的结果。\n2. 自动检查最长等待时间缩短为3秒，避免网络异常时长时间延迟。\n3. 缓存上一次成功获取的更新信息，再次启动时可立即判断并弹出提示。\n4. APK 下载继续使用原有长超时与多地址校验，不影响更新包下载稳定性。",
-  "publishedAt": "2026-09-23T11:42:40Z",
+  "versionCode": 27,
+  "versionName": "1.10.5-test",
+  "apkUrl": "https://jianxu-xauat.perky-bull-4890.chatgpt.site/downloads/jianxu-1.10.5-test.apk",
+  "sha256": "658f431ad3f753a62b55271e4aed515606f35973f09657973a4df237174ebc76",
+  "size": 1117297,
+  "notes": "建序 1.10.5-test\n\n1. 更新通道稳定性优化，新增建序官网备用更新源。\n2. 西建大课表按周日作为课程周第一天。\n3. 桌面课程表完整显示周六、周日课程。\n4. 修复管理员班车发布协议与网页版菜单问题。",
+  "publishedAt": "2026-10-29T00:08:53Z",
   "required": false
 }
