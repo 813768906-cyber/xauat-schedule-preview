@@ -1,10 +1,10 @@
 {
-  "versionCode": 27,
-  "versionName": "1.10.5-test",
-  "apkUrl": "https://jianxu-xauat.perky-bull-4890.chatgpt.site/downloads/jianxu-1.10.5-test.apk",
-  "sha256": "658f431ad3f753a62b55271e4aed515606f35973f09657973a4df237174ebc76",
-  "size": 1117297,
-  "notes": "建序 1.10.5-test\n\n1. 更新通道稳定性优化，新增建序官网备用更新源。\n2. 西建大课表按周日作为课程周第一天。\n3. 桌面课程表完整显示周六、周日课程。\n4. 修复管理员班车发布协议与网页版菜单问题。",
-  "publishedAt": "2026-10-29T00:08:53Z",
+  "versionCode": 28,
+  "versionName": "1.10.6-test",
+  "apkUrl": "https://raw.githubusercontent.com/813768906-cyber/xauat-schedule-preview/main/downloads/jianxu-1.10.6-test.apk",
+  "sha256": "881f5725f021ddd6570cc6b709e7f05d6b7eef8559b55fb44a929402854c53d6",
+  "size": 1117377,
+  "notes": "修复部分手机更新包下载校验失败：补齐 GitHub 备用安装包；在设置中新增建序网页版入口。",
+  "publishedAt": "2026-10-29T04:39:00Z",
   "required": false
 }
